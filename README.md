@@ -58,7 +58,7 @@ I’m a final-year Computer Science (Artificial Intelligence) student at Multime
 
 ## 🚀 Featured Project
 
-### [Streamlit Developer Toolbox](https://github.com/YOUR_GITHUB_USERNAME/YOUR_TOOLBOX_REPOSITORY)
+### [Streamlit Developer Toolbox](https://github.com/weizhe0/Streamlit-Developer-Toolbox)
 
 A customisable web app with tools built around users’ needs, helping them complete tasks conveniently through a browser.
 
@@ -75,10 +75,10 @@ A customisable web app with tools built around users’ needs, helping them comp
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weizhe0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weizhe0&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories" />
 </p>
 
 <details>
@@ -92,9 +92,8 @@ The cards use repository data, so they may take time to update. Language percent
 
 *Have a useful idea or a beginner-friendly project? Let’s learn and build together!*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weizhe0)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiwz04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 
 ---
 <p align="center"><i>Small projects. Useful ideas. Always learning. 🌱</i></p>
