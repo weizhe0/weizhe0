@@ -70,7 +70,7 @@ A customisable web app with tools built around users’ needs, helping them comp
 
 ## 📊 GitHub Activity
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=38BDF8)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/weizhe0?label=Followers&style=flat&color=38BDF8)](https://github.com/weizhe0?tab=followers)
 
 
 
