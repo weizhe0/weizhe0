@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tai Wei Zhe 👋</h1>
-<p align="center">IT student in Malaysia • Learning by building useful tools</p>
+<p align="center">Computer Science (Artificial Intelligence) student at MMU Melaka • Learning by building useful tools</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Exploring+Python+and+AI;Building+tools+for+everyday+tasks;Learning+something+new+with+every+project" alt="Animated introduction: exploring Python and AI, building useful tools, and learning" />
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I enjoy turning everyday problems into useful web tools. I’m learning how to connect AI, documents, and databases to make tasks easier.
+I’m a final-year Computer Science (Artificial Intelligence) student at Multimedia University, Melaka. I enjoy turning everyday problems into useful web tools. I’m learning how to connect AI, documents, and databases to make tasks easier.
 
 - 🔭 Currently building a **customisable Streamlit Developer Toolbox**.
 - 🌱 Learning **Python, SQL, API integration, and Git**.
@@ -25,16 +25,35 @@ I enjoy turning everyday problems into useful web tools. I’m learning how to c
 
 <br clear="all" />
 
-## 🚀 Languages and Tools I’m Learning
+## 🚀 Languages and Tools
+
+**Proficient:** C · C++ · SQL · Software Development
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sqlite,git,github&theme=dark" alt="Python, SQLite, Git, and GitHub icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C and C++" />
+</p>
+
+**Familiar:** Python · JavaScript · C# · XML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cs&theme=dark" alt="Python, JavaScript, and C sharp" />
+</p>
+
+**Prior experience:** HTML · CSS · PHP · Flask · Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,flask&theme=dark" alt="HTML, CSS, PHP, and Flask" />
+</p>
+
+**Current project tools:** Streamlit · Groq API · SQLite · Git · GitHub
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,git,github&theme=dark" alt="SQLite, Git, and GitHub" />
 </p>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
 ![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
 
 ## 🚀 Featured Project
@@ -74,7 +93,7 @@ The cards use repository data, so they may take time to update. Language percent
 *Have a useful idea or a beginner-friendly project? Let’s learn and build together!*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiwz04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 
 ---
