@@ -5,7 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Exploring+Python+and+AI;Building+tools+for+everyday+tasks;Learning+something+new+with+every+project" alt="Animated introduction: exploring Python and AI, building useful tools, and learning" />
 </p>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" alt="Animated coding illustration from Ayushparikh-code's profile template" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif"
+    width="220"
+    alt="Coding animation"
+  />
+</p>
 
 ## 👨‍💻 About Me
 
