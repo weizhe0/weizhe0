@@ -17,9 +17,9 @@
 
 I’m a final-year Computer Science (Artificial Intelligence) student at Multimedia University, Melaka. I enjoy turning everyday problems into useful web tools. I’m learning how to connect AI, documents, and databases to make tasks easier.
 
-- 🔭 Currently building a **customisable Streamlit Developer Toolbox**.
+- 🔭 Interested in building useful tools that make everyday tasks easier.
 - 🌱 Learning **Python, SQL, API integration, and Git**.
-- 🤖 Interested in **AI assistants, automation, and web development**.
+- 🤖 Interested in **AI assistants, AI agents,automation, and web development**.
 - 🤝 Open to learning together and collaborating on beginner-friendly projects.
 - ⚡ My goal: **build something useful, improve it, and keep learning**.
 
