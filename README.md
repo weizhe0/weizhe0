@@ -100,7 +100,3 @@ The cards use repository data, so they may take time to update. Language percent
 
 <!-- Visual components: DenverCoder1/readme-typing-svg, tandpfun/skill-icons,
      anuraghazra/github-readme-stats, and Shields.io. -->
-
-### Template Credits
-
-Layout inspiration and coding GIF: [Ayushparikh-code](https://github.com/Ayushparikh-code/Ayushparikh-code). Typing animation: [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg). Icons: [Skill Icons](https://github.com/tandpfun/skill-icons). Statistics: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Badges: [Shields.io](https://shields.io).
