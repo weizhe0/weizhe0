@@ -1,102 +1,167 @@
-<h1 align="center">Hey there, I'm Tai Wei Zhe 👋</h1>
-<p align="center">Computer Science (Artificial Intelligence) student at MMU Melaka • Learning by building useful tools</p>
+# 👋 Hey, I'm Tai Wei Zhe
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=65&lines=Exploring+Python+and+AI;Building+tools+for+everyday+tasks;Learning+something+new+with+every+project" alt="Animated introduction: exploring Python and AI, building useful tools, and learning" />
+  <strong>Computer Science (Artificial Intelligence) Graduate | Aspiring Software Engineer</strong><br>
+  Melaka, Malaysia · Interested in Full-Stack Development, AI Integration & Business Systems
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif"
-    width="220"
-    alt="Coding animation"
-  />
+  <a href="https://github.com/weizhe0">
+    <img src="https://img.shields.io/badge/GitHub-weizhe0-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:taiwz04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ## 👨‍💻 About Me
 
-I’m a final-year Computer Science (Artificial Intelligence) student at Multimedia University, Melaka. I enjoy turning everyday problems into useful web tools. I’m learning how to connect AI, documents, and databases to make tasks easier.
+I'm a Computer Science (Artificial Intelligence) graduate from Multimedia University (MMU), Melaka, with hands-on experience building web applications and supporting software systems.
 
-- 🔭 Interested in building useful tools that make everyday tasks easier.
-- 🌱 Learning **Python, SQL, API integration, and Git**.
-- 🤖 Interested in **AI assistants, AI agents,automation, and web development**.
-- 🤝 Open to learning together and collaborating on beginner-friendly projects.
-- ⚡ My goal: **build something useful, improve it, and keep learning**.
+I enjoy turning real-world problems into practical software solutions, from database-driven web applications to AI-powered tools. I also have experience troubleshooting technical issues, supporting software implementations, and working with AI coding assistants to accelerate development while reviewing and debugging the generated code.
 
-<br clear="all" />
+- 💻 Interested in full-stack development and business management systems.
+- 🤖 Experienced in integrating AI APIs into web applications.
+- 🗄️ Interested in relational databases, SQL, and backend development.
+- 🛠️ Experienced in technical troubleshooting and software support.
+- 🌱 Continuously improving my skills in TypeScript, Next.js, PostgreSQL, and software testing.
+- 📍 Based in Melaka, Malaysia.
 
-## 🚀 Languages and Tools
+## 🧰 Languages & Technologies
 
-**Proficient:** C · C++ · SQL · Software Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C and C++" />
-</p>
-
-**Familiar:** Python · JavaScript · C# · XML
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cs&theme=dark" alt="Python, JavaScript, and C sharp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php,cs" alt="C, C++, Python, JavaScript, TypeScript, PHP, C Sharp">
 </p>
 
-**Prior experience:** HTML · CSS · PHP · Flask · Web Development
+**Web Development & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,flask&theme=dark" alt="HTML, CSS, PHP, and Flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,streamlit,nextjs" alt="HTML, CSS, Flask, Streamlit, Next.js">
 </p>
 
-**Current project tools:** Streamlit · Groq API · SQLite · Git · GitHub
+**Databases, Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github&theme=dark" alt="SQLite, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,linux" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, Linux">
 </p>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+**Additional Technologies**
 
-## 🚀 Featured Project
+- **ORM & Database Tools:** Prisma
+- **Authentication:** Better Auth
+- **AI Integration:** Groq API, LLM integration
+- **Data & Machine Learning:** Pandas, TensorFlow, Keras, OpenCV
+- **AI-Assisted Development:** Claude, OpenAI Codex, ChatGPT
 
-### [Streamlit Developer Toolbox](https://github.com/weizhe0/Streamlit-Developer-Toolbox)
+*My experience varies by technology. Some are used in completed projects, while others are part of my ongoing development work.*
 
-A customisable web app with tools built around users’ needs, helping them complete tasks conveniently through a browser.
+## 🚀 Featured Projects
 
-**Features:** AI chat • PDF Q&A • Invoice/PO comparison • Data dashboard • Image text extraction • Login and records • Database management
+### 1. Tuition Management System V2
 
-**Built with:** Python, Streamlit, Groq API, Pandas, and SQLite.
+**Next.js · TypeScript · PostgreSQL · Prisma · Better Auth**
 
-<!-- Optional: add a public demo link here after deployment. -->
+A full-stack tuition centre management system designed to support student records, teacher management, class assignments, and role-specific access.
+
+**Key features implemented:**
+- Student registration and profile management.
+- Teacher management and class assignment.
+- Role-specific portals for staff, teachers, and students.
+- Email/password authentication and role-based access checks.
+- Student-specific information, including monthly tuition fees and class details.
+- PostgreSQL database integration with Prisma ORM and version-controlled migrations.
+
+**What I'm learning:**
+- Building applications with Next.js App Router and TypeScript.
+- Designing relational database models.
+- Implementing authentication and authorization.
+- Structuring maintainable application code and debugging AI-assisted implementations.
+
+**Status:** In development.
+
+> This project is a personal development project, not a production deployment.
+
+### 2. Streamlit Developer Toolbox
+
+**Python · Streamlit · Groq API · Pandas · SQLite**
+
+A customizable browser-based toolbox that brings several productivity features into one application.
+
+**Features:**
+- AI-powered chat.
+- PDF question answering.
+- Invoice and purchase order comparison.
+- Data dashboards.
+- Image text extraction.
+- Login, record management, and database functionality.
+
+🔗 **Repository:** [Streamlit Developer Toolbox](https://github.com/weizhe0/Streamlit-Developer-Toolbox)
+
+### 3. Anthropomorphizing Chatbot — Final Year Project
+
+**Python · Flask · MySQL · TensorFlow/Keras · JavaScript · Groq API**
+
+An AI-powered chatbot project combining facial emotion recognition, text sentiment analysis, and large language model responses.
+
+**Key features:**
+- Integrated facial emotion recognition and text sentiment analysis.
+- Trained and compared five deep learning models using the CK+ dataset.
+- Combined emotion-related signals to support chatbot responses.
+- Implemented user authentication, chat history, weekly reports, and voice interaction.
+
+### 4. Petronas Gas Home Delivery System
+
+**PHP · MySQL · JavaScript · HTML · CSS**
+
+A web-based gas cylinder booking and delivery system built independently to streamline customer bookings and delivery workflows.
+
+**Key features:**
+- Gas cylinder booking and delivery management.
+- Distance-based delivery fee calculation.
+- Nearest-shop locator.
+- Database-backed application functionality.
+
+## 💼 Professional Experience
+
+**Software Support Intern — Hcom Technology Sdn Bhd**
+- Troubleshot POS software and related technical issues.
+- Supported software implementation for retail and food-and-beverage clients.
+
+**Technician — NTT DATA Paysys Solutions**
+- Installed, maintained, and troubleshot payment terminals.
+- Supported technical issue resolution for payment systems.
+
+These roles strengthened my troubleshooting, communication, and practical problem-solving skills.
 
 ## 📊 GitHub Activity
 
-[![GitHub followers](https://img.shields.io/github/followers/weizhe0?label=Followers&style=flat&color=38BDF8)](https://github.com/weizhe0?tab=followers)
-
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weizhe0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weizhe0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weizhe0&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weizhe0&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in public repositories">
 </p>
 
 <details>
-  <summary>What do these cards show?</summary>
+  <summary>About these statistics</summary>
 
-The cards use repository data, so they may take time to update. Language percentages show code composition, not skill level. These cards depend on an external service and may occasionally be unavailable.
+  These cards display repository-based statistics. Language percentages reflect code composition rather than proficiency, and the cards may occasionally be unavailable due to external service issues.
 
 </details>
 
 ## 📫 Let's Connect
 
-*Have a useful idea or a beginner-friendly project? Let’s learn and build together!*
+I'm interested in software engineering opportunities, useful side projects, and collaborating with others to build practical applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weizhe0)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiwz04@gmail.com)
+- **GitHub:** [github.com/weizhe0](https://github.com/weizhe0)
+- **Email:** [taiwz04@gmail.com](mailto:taiwz04@gmail.com)
+- **Location:** Melaka, Malaysia
 
 ---
-<p align="center"><i>Small projects. Useful ideas. Always learning. 🌱</i></p>
 
-<!-- Visual components: DenverCoder1/readme-typing-svg, tandpfun/skill-icons,
-     anuraghazra/github-readme-stats, and Shields.io. -->
+<p align="center">
+  <i>Build useful things. Solve real problems. Keep improving. 🚀</i>
+</p>
