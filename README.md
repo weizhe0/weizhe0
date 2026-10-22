@@ -35,7 +35,8 @@ I enjoy turning real-world problems into practical software solutions, from data
 **Web Development & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,streamlit,nextjs" alt="HTML, CSS, Flask, Streamlit, Next.js">
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs" alt="HTML, CSS, Next.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
 
 **Databases, Tools & Platforms**
