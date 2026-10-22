@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Tai Wei Zhe
 
-<p align="center">
-  <strong>Computer Science (Artificial Intelligence) Graduate | Aspiring Software Engineer</strong><br>
-  Melaka, Malaysia · Interested in Full-Stack Development, AI Integration & Business Systems
-</p>
+<p align="center">Computer Science (Artificial Intelligence) student at MMU Melaka • Learning by building useful tools</p>
 
 <p align="center">
   <a href="https://github.com/weizhe0">
